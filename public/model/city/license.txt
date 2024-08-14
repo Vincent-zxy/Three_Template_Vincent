@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mafer_City
+* source:	https://sketchfab.com/3d-models/mafer-city-2bd53c28a598423f81e883224332dfd1
+* author:	Mafer Luna (https://sketchfab.com/Fernanda.Aldaco.de.Luna)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mafer_City" (https://sketchfab.com/3d-models/mafer-city-2bd53c28a598423f81e883224332dfd1) by Mafer Luna (https://sketchfab.com/Fernanda.Aldaco.de.Luna) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
